@@ -4,4 +4,5 @@ This repository contains Java solutions for different practice and interview que
 
 ## How to Run
 javac Q1.java
+
 java Q1
